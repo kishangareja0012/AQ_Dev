@@ -1,0 +1,68 @@
+[02-Sep-2020 04:14:35 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/customer/www/anyquote.in/public_html/vendor/laravel/framewor in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[02-Sep-2020 04:14:50 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/customer/www/anyquote.in/public_html/vendor/laravel/framewor in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[02-Sep-2020 04:15:39 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/customer/www/anyquote.in/public_html/vendor/laravel/framewor in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[02-Sep-2020 04:15:56 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/customer/www/anyquote.in/public_html/vendor/laravel/framewor in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[02-Sep-2020 04:17:14 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/customer/www/anyquote.in/public_html/vendor/laravel/framewor in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Sep-2020 14:26:54 Asia/Kolkata] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/customer/www/anyquote.in/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[08-Sep-2020 15:44:04 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 167772160 bytes) in /home/customer/www/anyquote.in/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 49
+[08-Sep-2020 15:46:43 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 167772160 bytes) in /home/customer/www/anyquote.in/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 49
+[08-Sep-2020 15:47:43 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 167772160 bytes) in /home/customer/www/anyquote.in/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/CachedObjectStorage/Memory.php on line 49
+[19-Sep-2020 02:58:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/customer/www/anyquote.in/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/anyquote.in/public_html/index.php on line 3
+[19-Sep-2020 02:58:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/customer/www/anyquote.in/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/anyquote.in/public_html/index.php on line 3
+[02-Oct-2020 18:17:03 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 4096 bytes) in /home/customer/www/anyquote.in/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Parsers/ExcelParser.php on line 653
+[02-Oct-2020 18:17:03 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 77824 bytes) in /home/customer/www/anyquote.in/public_html/vendor/composer/ClassLoader.php on line 444
+[07-Oct-2020 19:51:27 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 1847603200) (tried to allocate 4096 bytes) in /home/customer/www/anyquote.in/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Worksheet.php on line 1213
+[20-Oct-2020 15:46:21 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[20-Oct-2020 15:50:04 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[20-Oct-2020 15:50:53 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[21-Oct-2020 10:19:16 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[21-Oct-2020 12:02:59 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[21-Oct-2020 12:02:59 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 32768 bytes) in /home/customer/www/anyquote.in/public_html/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[21-Oct-2020 12:10:06 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[21-Oct-2020 12:10:06 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 32768 bytes) in /home/customer/www/anyquote.in/public_html/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[16-Dec-2020 11:06:56 Asia/Kolkata] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/customer/www/anyquote.in/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[02-Jan-2021 05:05:08 UTC] PHP Warning:  Unterminated comment starting line 75 in /home/customer/www/anyquote.in/public_html/config/app.php on line 75
+[08-Jan-2021 05:11:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home/customer/w in /home/customer/www/anyquote.in/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
